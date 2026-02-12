@@ -1,15 +1,8 @@
 Football Data Pipeline
 
-This is a simple Data Enginner Project.
-By following this pipeline.
+This is a simple Data Enginner Project following by this pipeline.
 
-Football API  
-   ↓  
-Python script (EC2)  
-   ↓  
-S3 (raw)  
-   ↓  
-PostgreSQL (RDS or local)
+Third-party Football API -> Python script (EC2) -> S3 (raw) -> PostgreSQL (RDS)
 
 Setup
 1. Create a AWS EC2 virtual server
