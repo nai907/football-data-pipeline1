@@ -1,7 +1,7 @@
 Football Data Pipeline
 
 This is a simple Data Enginner Project.
-By following this pipeline
+By following this pipeline.
 
 Football API  
    ↓  
